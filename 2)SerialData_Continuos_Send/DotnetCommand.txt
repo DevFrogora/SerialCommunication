@@ -1,0 +1,8 @@
+Dotnet command:
+dotnet new console --framework net6.0
+
+
+dotnet add package System.Configuration.ConfigurationManager
+
+dotnet run
+dotnet publish --configuration Release
